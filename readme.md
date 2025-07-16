@@ -101,3 +101,8 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+<h1></h1>
+
+<h1>Foi projetado para rodar com personagens aleatórios</h1>
+<p>Para rodar o projeto é somente necessário "node src/index.js"</p>
+<p>Ele roda totalmente pelo terminal</p>
